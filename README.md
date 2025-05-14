@@ -24,4 +24,10 @@ A dynamic web application built with **Node.js** and **EJS** that allows users t
 👉 [Click here to view the live project](https://wander-lust-p62m.onrender.com/listing) 
 
 # Live Project Screenshots
+
+## Listing Page
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/e328ebf0-109b-4eba-829c-8144cecc45ac" />
+
+## Singup Page
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1f81802c-7a90-4731-afd5-11d390dbf35d" />
+
