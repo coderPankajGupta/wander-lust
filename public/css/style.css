@@ -1,0 +1,17 @@
+html,
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  display: flex !important;
+  flex-direction: column !important;
+  height: 100% !important;
+}
+main {
+  flex: 1;
+}
+.card-img-overlay {
+  opacity: 0;
+}
+.card-img-overlay:hover {
+  opacity: 0.2;
+  background-color: white;
+}
